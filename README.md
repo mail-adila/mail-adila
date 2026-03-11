@@ -20,8 +20,8 @@
 
 I'm a **Software Development Engineer in Test (SDET)** with a passion for building reliable, scalable test automation frameworks. I enjoy bridging the gap between development and quality — writing clean code that ensures software ships with confidence.
 
-- 🔭 Currently sharpening my skills in **Selenium WebDriver**, **Java**, and **Python**
-- 🧩 Practicing **Blind 75 LeetCode** problems to stay sharp on DSA
+- 🔭 Currently sharpening my skills in **Integrating AI to test Automation** ,**API Test Automation**, **Postman**, and **Python**
+- 🧩 Wrapping up final project on **Harvard's CS50P**
 - 📍 Based in **Plano, TX**
 - 💬 Ask me about **test automation, framework design, or SDET interview prep**
 
@@ -57,20 +57,6 @@ I'm a **Software Development Engineer in Test (SDET)** with a passion for buildi
 Covers: Sorting algorithms, binary search, palindrome, Fibonacci, prime check, stack implementation, string manipulation, and more — all implemented from scratch without built-in shortcuts.
 
 `Java` `Data Structures` `Algorithms` `Interview Prep`
-
----
-
-### 🤖 [Selenium Automation Framework](https://github.com/mail-adila/SeleniumFramework)
-> A structured, reusable test automation framework built with Selenium WebDriver
-
-`Java` `Selenium WebDriver` `Test Automation` `Framework Design`
-
----
-
-### 🧠 [Blind 75 LeetCode](https://github.com/mail-adila/Blind_75_Leetcode)
-> Python solutions for the curated Blind 75 problem set — the gold standard for coding interviews
-
-`Python` `LeetCode` `DSA` `Interview Prep`
 
 ---
 
